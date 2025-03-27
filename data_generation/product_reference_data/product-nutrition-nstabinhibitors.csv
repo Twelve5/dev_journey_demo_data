@@ -1,0 +1,33 @@
+Product Name,Manufacturer,Approved Crop,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+Instinct II,Corteva Agriscience,Corn,24.0,oz/acre,37.0,oz/acre
+Instinct II,Corteva Agriscience,Wheat,24.0,oz/acre,37.0,oz/acre
+N-Serve,Corteva Agriscience,Corn,24.0,oz/acre,37.0,oz/acre
+N-Serve,Corteva Agriscience,Wheat,24.0,oz/acre,37.0,oz/acre
+CENTURO,Koch Agronomic Services,Corn,32.0,oz/acre,48.0,oz/acre
+N-Edge,CHS Agronomy,Corn,3.0,qt/ton,3.0,qt/ton
+N-Edge,CHS Agronomy,Soybeans,3.0,qt/ton,3.0,qt/ton
+N-Edge,CHS Agronomy,Wheat,3.0,qt/ton,3.0,qt/ton
+N-Edge,CHS Agronomy,Barley,3.0,qt/ton,3.0,qt/ton
+N-Edge,CHS Agronomy,Sorghum,3.0,qt/ton,3.0,qt/ton
+N-Edge,CHS Agronomy,Oats,3.0,qt/ton,3.0,qt/ton
+Pivot Bio PROVEN 40,Pivot Bio,Corn,12.8,oz/acre,12.8,oz/acre
+SuperU,Koch Agronomic Services,Corn,200.0,lb/acre,400.0,lb/acre
+SuperU,Koch Agronomic Services,Wheat,200.0,lb/acre,400.0,lb/acre
+Agrotain,Koch Agronomic Services,Corn,1.5,qt/ton,3.0,qt/ton
+Agrotain,Koch Agronomic Services,Soybeans,1.5,qt/ton,3.0,qt/ton
+Agrotain,Koch Agronomic Services,Wheat,1.5,qt/ton,3.0,qt/ton
+Agrotain,Koch Agronomic Services,Barley,1.5,qt/ton,3.0,qt/ton
+Agrotain,Koch Agronomic Services,Oats,1.5,qt/ton,3.0,qt/ton
+Agrotain,Koch Agronomic Services,Sorghum,1.5,qt/ton,3.0,qt/ton
+Limus,BASF,Corn,1.5,qt/ton,3.0,qt/ton
+Limus,BASF,Soybeans,1.5,qt/ton,3.0,qt/ton
+Limus,BASF,Wheat,1.5,qt/ton,3.0,qt/ton
+Limus,BASF,Barley,1.5,qt/ton,3.0,qt/ton
+Limus,BASF,Oats,1.5,qt/ton,3.0,qt/ton
+Limus,BASF,Sorghum,1.5,qt/ton,3.0,qt/ton
+Nutrisphere-N,Verdesian Life Sciences,Corn,0.5,gal/ton,0.5,gal/ton
+Nutrisphere-N,Verdesian Life Sciences,Soybeans,0.5,gal/ton,0.5,gal/ton
+Nutrisphere-N,Verdesian Life Sciences,Wheat,0.5,gal/ton,0.5,gal/ton
+Nutrisphere-N,Verdesian Life Sciences,Barley,0.5,gal/ton,0.5,gal/ton
+Nutrisphere-N,Verdesian Life Sciences,Oats,0.5,gal/ton,0.5,gal/ton
+Nutrisphere-N,Verdesian Life Sciences,Sorghum,0.5,gal/ton,0.5,gal/ton

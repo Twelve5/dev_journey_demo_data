@@ -1,0 +1,57 @@
+UniqueId,Name,Manufacturer,Type,Approved Crop,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+e2c7d429-f8b4-4a2d-bcd4-f24efddfb346,Warrior II with Zeon Technology,Syngenta,Insecticide,Soybeans,1.28,fl oz/acre,1.92,fl oz/acre
+3706e0d2-6ef4-4c58-836e-8583da186242,Warrior II with Zeon Technology,Syngenta,Insecticide,Corn,1.28,fl oz/acre,1.92,fl oz/acre
+61218d47-7b91-47a3-b567-29c1a6f1e001,Warrior II with Zeon Technology,Syngenta,Insecticide,Wheat,1.28,fl oz/acre,1.92,fl oz/acre
+8c7f52cb-3993-46a7-9083-5dcb8b8c1026,Warrior II with Zeon Technology,Syngenta,Insecticide,Barley,1.28,fl oz/acre,1.92,fl oz/acre
+0fb6c766-2f5a-4ce9-9f6f-a758c8e0f536,Warrior II with Zeon Technology,Syngenta,Insecticide,Oats,1.28,fl oz/acre,1.92,fl oz/acre
+c700f589-5ddc-47d9-a9a5-321e151590af,Warrior II with Zeon Technology,Syngenta,Insecticide,Sorghum,1.28,fl oz/acre,1.92,fl oz/acre
+7eac3e50-ddfa-4e5a-a9e8-50740692217e,Centynal EC,Central Life Sciences,Insecticide,Corn,8.5,fl oz/acre,8.5,fl oz/acre
+3a305996-4336-441a-a278-23175c8f9c81,Centynal EC,Central Life Sciences,Insecticide,Wheat,9.1,fl oz/acre,9.1,fl oz/acre
+ae554b24-bb06-43ef-b3e7-9a0e4e3104c0,Centynal EC,Central Life Sciences,Insecticide,Oats,4.9,fl oz/acre,4.9,fl oz/acre
+a986575f-3f87-4bc6-8f61-d880e58184b9,Centynal EC,Central Life Sciences,Insecticide,Sorghum,8.5,fl oz/acre,8.5,fl oz/acre
+26796568-4737-4a6d-a7bc-a58a1f41d5a6,Centynal EC,Central Life Sciences,Insecticide,Barley,8.5,fl oz/acre,8.5,fl oz/acre
+1de63a52-1906-47cd-be43-ba1f1ea0f057,Diacon IGR,Central Life Sciences,Insecticide,Corn,1.8,fl oz/acre,7.0,fl oz/acre
+04b03d11-db87-4493-b57a-8a4cb6483091,Diacon IGR,Central Life Sciences,Insecticide,Wheat,1.8,fl oz/acre,7.0,fl oz/acre
+56ff980f-922c-416f-af67-524d135c3645,Diacon IGR,Central Life Sciences,Insecticide,Oats,1.0,fl oz/acre,4.0,fl oz/acre
+2afbe101-f4f6-4b3f-bc65-c0fd580a2c60,Diacon IGR,Central Life Sciences,Insecticide,Sorghum,1.8,fl oz/acre,7.0,fl oz/acre
+1a661643-fe35-4e5f-bc41-adf673a13654,Diacon IGR,Central Life Sciences,Insecticide,Barley,1.8,fl oz/acre,7.0,fl oz/acre
+c8a4689c-495a-4b97-bc44-3d897cccfe2a,Sensat,Bayer,Insecticide,Corn,9.8,fl oz/acre,9.8,fl oz/acre
+332b6902-14b4-4c4a-8927-5c754ff4f79b,Sensat,Bayer,Insecticide,Wheat,10.5,fl oz/acre,10.5,fl oz/acre
+12c5dcec-cf78-4bd4-a3ba-aa825854774c,Sensat,Bayer,Insecticide,Oats,5.9,fl oz/acre,5.9,fl oz/acre
+585254fb-f405-4812-8851-1f7efa48006c,Sensat,Bayer,Insecticide,Sorghum,9.8,fl oz/acre,9.8,fl oz/acre
+86c49287-3186-44cc-bb14-cd80a95c1333,Baythroid XL,Bayer,Insecticide,Corn,0.8,fl oz/acre,2.8,fl oz/acre
+3813c400-a4ef-4d24-a1ec-be89e08fd1f6,Baythroid XL,Bayer,Insecticide,Soybeans,1.6,fl oz/acre,2.8,fl oz/acre
+b5cb4b46-f472-4f00-9339-bfd7a95e8f4e,Baythroid XL,Bayer,Insecticide,Wheat,0.8,fl oz/acre,2.8,fl oz/acre
+100d3592-fdbc-4fdb-be67-1ab7f47bec4c,Baythroid XL,Bayer,Insecticide,Barley,0.8,fl oz/acre,2.8,fl oz/acre
+43bd69e4-66a7-4f65-8bb7-365f5966c40f,Baythroid XL,Bayer,Insecticide,Oats,0.8,fl oz/acre,2.8,fl oz/acre
+8d5ff7e6-328e-4cab-a99d-901e2695bb4d,Baythroid XL,Bayer,Insecticide,Sorghum,0.8,fl oz/acre,2.8,fl oz/acre
+e93d4be7-5241-4281-b06c-8d3c092553c4,Brigade 2EC,FMC,Insecticide,Corn,2.1,fl oz/acre,6.4,fl oz/acre
+8d3b2c46-2023-412f-a3bd-93d401baaf24,Brigade 2EC,FMC,Insecticide,Soybeans,2.1,fl oz/acre,6.4,fl oz/acre
+dcf9d8b1-3204-4f29-9520-c018db510d76,Brigade 2EC,FMC,Insecticide,Wheat,2.1,fl oz/acre,6.4,fl oz/acre
+fcc3e84c-eb69-47c3-829e-244c0577e01b,Brigade 2EC,FMC,Insecticide,Barley,2.1,fl oz/acre,6.4,fl oz/acre
+11380878-b6e3-474c-91c6-75c3d578e4f4,Brigade 2EC,FMC,Insecticide,Oats,2.1,fl oz/acre,6.4,fl oz/acre
+dde9be8c-1f70-4197-a10f-bbe6e3475ce2,Brigade 2EC,FMC,Insecticide,Sorghum,2.1,fl oz/acre,6.4,fl oz/acre
+5c038228-5096-44b8-a0c0-a37f3a9f07fc,Mustang Maxx,FMC,Insecticide,Corn,2.0,fl oz/acre,4.3,fl oz/acre
+d5fcf824-8f7e-4adc-a8e9-6a3c297714d9,Mustang Maxx,FMC,Insecticide,Soybeans,2.0,fl oz/acre,4.3,fl oz/acre
+c9e292cd-e042-4b28-95cd-d98eb8e03d60,Mustang Maxx,FMC,Insecticide,Wheat,2.0,fl oz/acre,4.3,fl oz/acre
+f98255f9-39f1-4581-8b87-87da37df38fe,Mustang Maxx,FMC,Insecticide,Barley,2.0,fl oz/acre,4.3,fl oz/acre
+69c70fc7-2ae9-47c0-bf2a-34f8eb017372,Mustang Maxx,FMC,Insecticide,Oats,2.0,fl oz/acre,4.3,fl oz/acre
+2bf4924a-706c-4b86-ae5d-499a578feab9,Mustang Maxx,FMC,Insecticide,Sorghum,2.0,fl oz/acre,4.3,fl oz/acre
+5caff7f2-f247-4cc1-892e-fa314f9402d6,Capture LFR,FMC,Insecticide,Corn,3.4,fl oz/acre,8.5,fl oz/acre
+b759a140-9ba5-43ad-ae6f-ddb465c6ec82,Capture LFR,FMC,Insecticide,Soybeans,3.4,fl oz/acre,8.5,fl oz/acre
+c82c09e5-f4d6-43ac-adbc-bdca13f289a0,Capture LFR,FMC,Insecticide,Wheat,3.4,fl oz/acre,8.5,fl oz/acre
+f6756f96-6378-4970-87b5-debc57c096b4,Capture LFR,FMC,Insecticide,Barley,3.4,fl oz/acre,8.5,fl oz/acre
+10d2463d-7e8c-4b05-a5d0-469ba16a907f,Capture LFR,FMC,Insecticide,Oats,3.4,fl oz/acre,8.5,fl oz/acre
+5652c8ef-750d-4699-82d9-aec532d1478f,Capture LFR,FMC,Insecticide,Sorghum,3.4,fl oz/acre,8.5,fl oz/acre
+15f4be63-a47a-439c-9c5e-777abaae43a1,Lorsban Advanced,Corteva,Insecticide,Corn,1.0,pt/acre,2.0,pt/acre
+55f41dc8-3180-4fae-8b7e-077cef6511a9,Lorsban Advanced,Corteva,Insecticide,Soybeans,1.0,pt/acre,2.0,pt/acre
+0b976276-5a6a-40f8-b105-b1b3c92c828c,Lorsban Advanced,Corteva,Insecticide,Wheat,1.0,pt/acre,2.0,pt/acre
+4b3cd2ee-8b64-446a-a8ed-2cdddfdc7ec9,Lorsban Advanced,Corteva,Insecticide,Barley,1.0,pt/acre,2.0,pt/acre
+276ed699-bc4c-420f-9c73-2e14a263f6d1,Lorsban Advanced,Corteva,Insecticide,Oats,1.0,pt/acre,2.0,pt/acre
+8de2b000-b05a-46d8-b176-77884d48c26c,Lorsban Advanced,Corteva,Insecticide,Sorghum,1.0,pt/acre,2.0,pt/acre
+88d5bae7-aa2b-4a03-91b1-13e2099e0ad8,Karate Zeon,Syngenta,Insecticide,Corn,0.96,fl oz/acre,1.92,fl oz/acre
+cb87b9a5-aa5b-4017-ac11-9f8c6481f4ad,Karate Zeon,Syngenta,Insecticide,Soybeans,0.96,fl oz/acre,1.92,fl oz/acre
+56a6d55b-31a2-430b-ab7d-09f2e12ffc2e,Karate Zeon,Syngenta,Insecticide,Wheat,0.96,fl oz/acre,1.92,fl oz/acre
+df7dcb76-2c8f-4eef-a083-26a276566479,Karate Zeon,Syngenta,Insecticide,Barley,0.96,fl oz/acre,1.92,fl oz/acre
+6c140c18-5211-43a7-8f86-f6db48780cbe,Karate Zeon,Syngenta,Insecticide,Oats,0.96,fl oz/acre,1.92,fl oz/acre
+6056abe8-2060-4cb0-ae24-a7fdfa8c6472,Karate Zeon,Syngenta,Insecticide,Sorghum,0.96,fl oz/acre,1.92,fl oz/acre

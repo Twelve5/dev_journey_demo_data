@@ -1,0 +1,35 @@
+UniqueId,Name,Manufacturer,Type,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+2801d8cf-1e71-481a-ba5c-0f59be4dc410,Urea (46-0-0),Nutrien,Macronutrient,100,lb/acre,150,lb/acre
+9c252a88-614f-43f3-b421-f94b77e61422,Urea (46-0-0),Nutrien,Macronutrient,60,lb/acre,90,lb/acre
+4e773bd8-0672-4d27-b0e3-8bc4986d0a69,Urea (46-0-0),Nutrien,Macronutrient,50,lb/acre,80,lb/acre
+b76dd7bd-7a54-4de5-b77c-7c7f5a292a25,Urea (46-0-0),Nutrien,Macronutrient,40,lb/acre,70,lb/acre
+113d42df-52de-4671-880c-f6d82916b6d0,Urea (46-0-0),Nutrien,Macronutrient,80,lb/acre,120,lb/acre
+0addd4d3-feb1-4689-840d-089128d84629,Diammonium Phosphate,Mosaic Company,Macronutrient,50,lb/acre,100,lb/acre
+13aec238-3134-4451-9bbc-2ab497f576b7,Diammonium Phosphate,Mosaic Company,Macronutrient,30,lb/acre,60,lb/acre
+5efc5a59-75b0-402a-95ec-0a2a00f9dd28,Diammonium Phosphate,Mosaic Company,Macronutrient,40,lb/acre,80,lb/acre
+21c98cae-3463-4fa0-8b23-b22dfb3d236a,Diammonium Phosphate,Mosaic Company,Macronutrient,35,lb/acre,70,lb/acre
+1c3c9540-d2e2-4cf2-b1d7-f15fa6160f08,Diammonium Phosphate,Mosaic Company,Macronutrient,30,lb/acre,60,lb/acre
+7e4bd198-f34e-4682-9d5a-8dcb263b49b3,Diammonium Phosphate,Mosaic Company,Macronutrient,45,lb/acre,90,lb/acre
+fdc998e1-a997-4bc0-96c9-1bb3299f3ca1,Potassium Chloride,Intrepid Potash,Macronutrient,50,lb/acre,100,lb/acre
+eae24e2b-c7aa-4391-b252-84e3213bdae7,Potassium Chloride,Intrepid Potash,Macronutrient,40,lb/acre,80,lb/acre
+7225726a-8355-436e-9dcc-8b7f98466c05,Potassium Chloride,Intrepid Potash,Macronutrient,30,lb/acre,60,lb/acre
+2076fa53-981b-4115-abb6-2b18c6805ab8,Potassium Chloride,Intrepid Potash,Macronutrient,25,lb/acre,50,lb/acre
+9783ea3e-8922-42a1-9f0c-d8b55e70203f,Potassium Chloride,Intrepid Potash,Macronutrient,20,lb/acre,40,lb/acre
+146fee10-1fb3-4dd5-a891-875844ee35b2,Potassium Chloride,Intrepid Potash,Macronutrient,45,lb/acre,90,lb/acre
+5861d806-519a-4113-9b89-241ed0c3f7a2,Monoammonium Phosphate,Yara International,Macronutrient,40,lb/acre,80,lb/acre
+69abbf5c-5447-4fa0-bc20-1ba8c5892aea,Monoammonium Phosphate,Yara International,Macronutrient,25,lb/acre,50,lb/acre
+9f88f0ba-2b87-4eeb-939b-872d70ff2aa7,Monoammonium Phosphate,Yara International,Macronutrient,35,lb/acre,70,lb/acre
+eb0a2279-265e-4c6c-8b90-19586836cbe5,Monoammonium Phosphate,Yara International,Macronutrient,30,lb/acre,60,lb/acre
+d3b0b7cf-43bb-4764-bdaf-2ab4aac2cc1a,Monoammonium Phosphate,Yara International,Macronutrient,25,lb/acre,50,lb/acre
+ffdb56da-9528-4052-a4b5-f106f269bd26,Monoammonium Phosphate,Yara International,Macronutrient,40,lb/acre,80,lb/acre
+5ff057a8-8345-4c21-b4ce-2c7e7707f5d6,Ammonium Nitrate (34-0-0),CF Industries,Macronutrient,90,lb/acre,140,lb/acre
+0acbb966-a0c3-4492-9845-2d4ac93eb087,Ammonium Nitrate (34-0-0),CF Industries,Macronutrient,50,lb/acre,80,lb/acre
+7967c6b2-d490-4522-b485-2dff455ee89d,Ammonium Nitrate (34-0-0),CF Industries,Macronutrient,45,lb/acre,75,lb/acre
+57f8edd2-6e72-4699-8c5e-34ef0fe7d0d1,Ammonium Nitrate (34-0-0),CF Industries,Macronutrient,35,lb/acre,65,lb/acre
+601b6d76-a7d4-4107-843f-b9645725b10a,Ammonium Nitrate (34-0-0),CF Industries,Macronutrient,70,lb/acre,110,lb/acre
+6d1c5b69-7e9b-482f-acfd-c26ed3b93d0b,Triple Superphosphate,Simplot,Macronutrient,30,lb/acre,60,lb/acre
+edb7c524-fa26-4d10-a739-91ece27dad42,Triple Superphosphate,Simplot,Macronutrient,20,lb/acre,40,lb/acre
+74d7cd92-2c0f-4426-9b6d-25cc4f0eb243,Triple Superphosphate,Simplot,Macronutrient,25,lb/acre,50,lb/acre
+3223432b-8dfc-4f92-b02a-d0e8a2d22b31,Triple Superphosphate,Simplot,Macronutrient,20,lb/acre,40,lb/acre
+4295135d-1dc6-4b83-935e-e913ffe71c65,Triple Superphosphate,Simplot,Macronutrient,15,lb/acre,30,lb/acre
+b94d64a8-125b-49e6-a186-c3f21cefc749,Triple Superphosphate,Simplot,Macronutrient,30,lb/acre,60,lb/acre

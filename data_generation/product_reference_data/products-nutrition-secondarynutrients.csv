@@ -1,0 +1,33 @@
+Product Name,Manufacturer,Approved Crop,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+LiberateCa,AgroLiquid,Corn,1.0,gal/acre,2,gal/acre
+LiberateCa,AgroLiquid,Soybeans,1.0,gal/acre,2,gal/acre
+LiberateCa,AgroLiquid,Wheat,1.0,gal/acre,2,gal/acre
+LiberateCa,AgroLiquid,Barley,1.0,gal/acre,2,gal/acre
+LiberateCa,AgroLiquid,Oats,1.0,gal/acre,2,gal/acre
+LiberateCa,AgroLiquid,Sorghum,1.0,gal/acre,2,gal/acre
+Pivot Bio PROVEN 40,Pivot Bio,Corn,0.5,gal/acre,1,gal/acre
+Pivot Bio PROVEN 40,Pivot Bio,Sorghum,0.5,gal/acre,1,gal/acre
+Calcium Nitrate,Yara International,Corn,100.0,lb/acre,150,lb/acre
+Calcium Nitrate,Yara International,Soybeans,100.0,lb/acre,150,lb/acre
+Calcium Nitrate,Yara International,Wheat,100.0,lb/acre,150,lb/acre
+Calcium Nitrate,Yara International,Barley,100.0,lb/acre,150,lb/acre
+Calcium Nitrate,Yara International,Oats,100.0,lb/acre,150,lb/acre
+Calcium Nitrate,Yara International,Sorghum,100.0,lb/acre,150,lb/acre
+Magnesium Sulfate,Mosaic Company,Corn,20.0,lb/acre,40,lb/acre
+Magnesium Sulfate,Mosaic Company,Soybeans,20.0,lb/acre,40,lb/acre
+Magnesium Sulfate,Mosaic Company,Wheat,20.0,lb/acre,40,lb/acre
+Magnesium Sulfate,Mosaic Company,Barley,20.0,lb/acre,40,lb/acre
+Magnesium Sulfate,Mosaic Company,Oats,20.0,lb/acre,40,lb/acre
+Magnesium Sulfate,Mosaic Company,Sorghum,20.0,lb/acre,40,lb/acre
+Sulfate of Potash Magnesia,Compass Minerals,Corn,50.0,lb/acre,100,lb/acre
+Sulfate of Potash Magnesia,Compass Minerals,Soybeans,50.0,lb/acre,100,lb/acre
+Sulfate of Potash Magnesia,Compass Minerals,Wheat,50.0,lb/acre,100,lb/acre
+Sulfate of Potash Magnesia,Compass Minerals,Barley,50.0,lb/acre,100,lb/acre
+Sulfate of Potash Magnesia,Compass Minerals,Oats,50.0,lb/acre,100,lb/acre
+Sulfate of Potash Magnesia,Compass Minerals,Sorghum,50.0,lb/acre,100,lb/acre
+Calcium Chloride,Tetra Chemicals,Corn,10.0,lb/acre,20,lb/acre
+Calcium Chloride,Tetra Chemicals,Soybeans,10.0,lb/acre,20,lb/acre
+Calcium Chloride,Tetra Chemicals,Wheat,10.0,lb/acre,20,lb/acre
+Calcium Chloride,Tetra Chemicals,Barley,10.0,lb/acre,20,lb/acre
+Calcium Chloride,Tetra Chemicals,Oats,10.0,lb/acre,20,lb/acre
+Calcium Chloride,Tetra Chemicals,Sorghum,10.0,lb/acre,20,lb/acre

@@ -1,0 +1,35 @@
+Product Name,Manufacturer,Approved Crop,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+Urea (46-0-0),Nutrien,Corn,100,lb/acre,150,lb/acre
+Urea (46-0-0),Nutrien,Wheat,60,lb/acre,90,lb/acre
+Urea (46-0-0),Nutrien,Barley,50,lb/acre,80,lb/acre
+Urea (46-0-0),Nutrien,Oats,40,lb/acre,70,lb/acre
+Urea (46-0-0),Nutrien,Sorghum,80,lb/acre,120,lb/acre
+Diammonium Phosphate,Mosaic Company,Corn,50,lb/acre,100,lb/acre
+Diammonium Phosphate,Mosaic Company,Soybeans,30,lb/acre,60,lb/acre
+Diammonium Phosphate,Mosaic Company,Wheat,40,lb/acre,80,lb/acre
+Diammonium Phosphate,Mosaic Company,Barley,35,lb/acre,70,lb/acre
+Diammonium Phosphate,Mosaic Company,Oats,30,lb/acre,60,lb/acre
+Diammonium Phosphate,Mosaic Company,Sorghum,45,lb/acre,90,lb/acre
+Potassium Chloride,Intrepid Potash,Corn,50,lb/acre,100,lb/acre
+Potassium Chloride,Intrepid Potash,Soybeans,40,lb/acre,80,lb/acre
+Potassium Chloride,Intrepid Potash,Wheat,30,lb/acre,60,lb/acre
+Potassium Chloride,Intrepid Potash,Barley,25,lb/acre,50,lb/acre
+Potassium Chloride,Intrepid Potash,Oats,20,lb/acre,40,lb/acre
+Potassium Chloride,Intrepid Potash,Sorghum,45,lb/acre,90,lb/acre
+Monoammonium Phosphate,Yara International,Corn,40,lb/acre,80,lb/acre
+Monoammonium Phosphate,Yara International,Soybeans,25,lb/acre,50,lb/acre
+Monoammonium Phosphate,Yara International,Wheat,35,lb/acre,70,lb/acre
+Monoammonium Phosphate,Yara International,Barley,30,lb/acre,60,lb/acre
+Monoammonium Phosphate,Yara International,Oats,25,lb/acre,50,lb/acre
+Monoammonium Phosphate,Yara International,Sorghum,40,lb/acre,80,lb/acre
+Ammonium Nitrate (34-0-0),CF Industries,Corn,90,lb/acre,140,lb/acre
+Ammonium Nitrate (34-0-0),CF Industries,Wheat,50,lb/acre,80,lb/acre
+Ammonium Nitrate (34-0-0),CF Industries,Barley,45,lb/acre,75,lb/acre
+Ammonium Nitrate (34-0-0),CF Industries,Oats,35,lb/acre,65,lb/acre
+Ammonium Nitrate (34-0-0),CF Industries,Sorghum,70,lb/acre,110,lb/acre
+Triple Superphosphate,Simplot,Corn,30,lb/acre,60,lb/acre
+Triple Superphosphate,Simplot,Soybeans,20,lb/acre,40,lb/acre
+Triple Superphosphate,Simplot,Wheat,25,lb/acre,50,lb/acre
+Triple Superphosphate,Simplot,Barley,20,lb/acre,40,lb/acre
+Triple Superphosphate,Simplot,Oats,15,lb/acre,30,lb/acre
+Triple Superphosphate,Simplot,Sorghum,30,lb/acre,60,lb/acre

@@ -1,0 +1,4 @@
+Attribute,Explanation,Type,Example
+UniqueId,Unique identified for the farm,GUID,123e4567-e89b-12d3-a456-426614174000
+Name,The name of the farm,String,Copper Beech Farm
+BusinessId,The UniqueId of the business this farm belongs to,GUID,123e4567-e89b-12d3-a456-426614174000 

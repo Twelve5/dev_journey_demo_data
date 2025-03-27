@@ -1,0 +1,12 @@
+Attribute,Explanation,Type,Example
+UniqueId,Unique identified for the operation,GUID,123e4567-e89b-12d3-a456-426614174000
+CropzoneId,Identifying the Crop Zone on which the Operation has taken place,GUID,123e4567-e89b-12d3-a456-426614174000 
+Status,Indicates the Status of the Operation,String,Planned / Recommended /  Actual
+Type,The type of operation performed on the field,String,Crop Protection / Nutrition / Planting
+OperationDate,The date on which the operation was performed,Date,31/01/2024
+ProductID,Identifying the Product that was applied on (or harvested off) the Crop Zone,GUID,123e4567-e89b-12d3-a456-426614174000
+Rate,The rate of product application (or removal) ,float,1.2
+RateUoM,The Rate Unit of Measurement,String,lt / ha
+Area,The Area on which the particular operation product was applied on / removed from. ,float,12.3
+AreaUoM,The Operation Area Unit of Measurement,String,ac
+Geometry,The geometry of the operation,geoJson,

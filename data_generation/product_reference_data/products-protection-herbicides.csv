@@ -1,0 +1,50 @@
+Product Name,Manufacturer,Approved Crop,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+Peak,Syngenta,Wheat,0.25,oz/acre,0.38,oz/acre
+Peak,Syngenta,Barley,0.25,oz/acre,0.38,oz/acre
+Harmony GT XP,FMC,Wheat,0.3,oz/acre,0.6,oz/acre
+Harmony GT XP,FMC,Barley,0.3,oz/acre,0.6,oz/acre
+Harmony GT XP,FMC,Oats,0.3,oz/acre,0.6,oz/acre
+Harmony GT XP,FMC,Corn,0.3,oz/acre,0.6,oz/acre
+Harmony GT XP,FMC,Soybeans,0.3,oz/acre,0.6,oz/acre
+Sequence,Syngenta,Corn,2.5,pt/acre,3.5,pt/acre
+Sequence,Syngenta,Soybeans,2.5,pt/acre,3.5,pt/acre
+Aim EC,FMC,Corn,0.5,oz/acre,2.0,oz/acre
+Aim EC,FMC,Soybeans,0.5,oz/acre,2.0,oz/acre
+Liberty,BASF,Corn,22.0,fl oz/acre,36.0,fl oz/acre
+Liberty,BASF,Soybeans,22.0,fl oz/acre,36.0,fl oz/acre
+SureStart II,Corteva Agriscience,Corn,1.5,pt/acre,2.0,pt/acre
+Banvel,BASF,Sorghum,0.5,pt/acre,1.0,pt/acre
+Sterling Blue,Albaugh,Corn,0.5,pt/acre,1.0,pt/acre
+Sterling Blue,Albaugh,Soybeans,0.5,pt/acre,1.0,pt/acre
+Sterling Blue,Albaugh,Wheat,0.5,pt/acre,1.0,pt/acre
+Sterling Blue,Albaugh,Barley,0.5,pt/acre,1.0,pt/acre
+Sterling Blue,Albaugh,Oats,0.5,pt/acre,1.0,pt/acre
+Sterling Blue,Albaugh,Sorghum,0.5,pt/acre,1.0,pt/acre
+Roundup PowerMAX,Bayer,Corn,22.0,fl oz/acre,44.0,fl oz/acre
+Roundup PowerMAX,Bayer,Soybeans,22.0,fl oz/acre,44.0,fl oz/acre
+Roundup PowerMAX,Bayer,Wheat,16.0,fl oz/acre,32.0,fl oz/acre
+Roundup PowerMAX,Bayer,Barley,16.0,fl oz/acre,32.0,fl oz/acre
+Roundup PowerMAX,Bayer,Oats,16.0,fl oz/acre,32.0,fl oz/acre
+Roundup PowerMAX,Bayer,Sorghum,22.0,fl oz/acre,44.0,fl oz/acre
+"2,4-D Amine",Nufarm,Corn,1.0,pt/acre,2.0,pt/acre
+"2,4-D Amine",Nufarm,Soybeans,1.0,pt/acre,2.0,pt/acre
+"2,4-D Amine",Nufarm,Wheat,0.5,pt/acre,1.5,pt/acre
+"2,4-D Amine",Nufarm,Barley,0.5,pt/acre,1.5,pt/acre
+"2,4-D Amine",Nufarm,Oats,0.5,pt/acre,1.5,pt/acre
+"2,4-D Amine",Nufarm,Sorghum,1.0,pt/acre,2.0,pt/acre
+Dicamba,BASF,Corn,0.5,pt/acre,1.5,pt/acre
+Dicamba,BASF,Soybeans,0.5,pt/acre,1.5,pt/acre
+Dicamba,BASF,Wheat,0.25,pt/acre,1.0,pt/acre
+Dicamba,BASF,Barley,0.25,pt/acre,1.0,pt/acre
+Dicamba,BASF,Oats,0.25,pt/acre,1.0,pt/acre
+Dicamba,BASF,Sorghum,0.5,pt/acre,1.5,pt/acre
+Callisto,Syngenta,Corn,3.0,fl oz/acre,7.7,fl oz/acre
+Callisto,Syngenta,Soybeans,3.0,fl oz/acre,7.7,fl oz/acre
+Atrazine,Syngenta,Corn,1.0,lb/acre,2.5,lb/acre
+Atrazine,Syngenta,Sorghum,1.0,lb/acre,2.5,lb/acre
+Clarity,BASF,Corn,4.0,fl oz/acre,16.0,fl oz/acre
+Clarity,BASF,Soybeans,4.0,fl oz/acre,16.0,fl oz/acre
+Clarity,BASF,Wheat,2.0,fl oz/acre,10.0,fl oz/acre
+Clarity,BASF,Barley,2.0,fl oz/acre,10.0,fl oz/acre
+Clarity,BASF,Oats,2.0,fl oz/acre,10.0,fl oz/acre
+Clarity,BASF,Sorghum,4.0,fl oz/acre,16.0,fl oz/acre

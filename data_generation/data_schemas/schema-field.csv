@@ -1,0 +1,7 @@
+Attribute,Explanation,Type,Example
+UniqueId,Unique identified for the field,GUID,123e4567-e89b-12d3-a456-426614174000
+Name,The name of the field,String,Lower Ditch
+FarmId,The UniqueId of the farm this field belongs to,GUID,123e4567-e89b-12d3-a456-426614174000 
+Geometry,Representing the geometry / boundaries of the Field,geoJson,
+Area,The area of the  Field,float,12.3
+AreaUoM,The Unit of Measurement of the Field Area,String,ac

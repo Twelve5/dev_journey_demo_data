@@ -1,0 +1,68 @@
+UniqueId,Name,Manufacturer,Type,Approved Crop,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+ecc5388a-668e-49f8-b72c-aeff1003c933,Tilt,Syngenta,Fungicide,Wheat,4.0,fl oz/acre,8.0,fl oz/acre
+68361508-053d-4165-b6ed-52097a802b6e,Tilt,Syngenta,Fungicide,Barley,4.0,fl oz/acre,8.0,fl oz/acre
+b5fa21b1-5cd3-4de1-84cd-05ce77a38039,Quilt Xcel,Syngenta,Fungicide,Corn,10.5,fl oz/acre,14.0,fl oz/acre
+38127c8f-6edd-43f4-aa9a-634ada5aa2b9,Quilt Xcel,Syngenta,Fungicide,Soybeans,10.5,fl oz/acre,14.0,fl oz/acre
+fa6ac38d-8035-4258-8fb7-deed052e3c10,Quilt Xcel,Syngenta,Fungicide,Wheat,10.5,fl oz/acre,14.0,fl oz/acre
+3f928b48-55e3-451f-ac52-77c9b5c19d0f,Quilt Xcel,Syngenta,Fungicide,Barley,10.5,fl oz/acre,14.0,fl oz/acre
+889918e0-e283-412c-a26d-0ad6bd92bdce,Stratego,Bayer,Fungicide,Corn,10.0,fl oz/acre,12.0,fl oz/acre
+4070351f-466a-4746-919e-44f51b958a49,Stratego,Bayer,Fungicide,Soybeans,10.0,fl oz/acre,12.0,fl oz/acre
+3db62e12-1535-40f5-bd5d-466fbc1b47b2,Stratego,Bayer,Fungicide,Wheat,10.0,fl oz/acre,12.0,fl oz/acre
+b21ce17c-0bdd-417c-a8e3-a0e1b5f374dd,Stratego,Bayer,Fungicide,Barley,10.0,fl oz/acre,12.0,fl oz/acre
+080802fb-815d-40d4-b272-c960b3a89eb6,Stratego,Bayer,Fungicide,Oats,10.0,fl oz/acre,12.0,fl oz/acre
+dc054317-08d7-4251-bc31-9282e6cf0d5f,Zolera FX,UPL NA Inc.,Fungicide,Corn,4.4,fl oz/acre,6.8,fl oz/acre
+fddcb6f4-335f-401e-8776-9da0c256039d,Zolera FX,UPL NA Inc.,Fungicide,Soybeans,4.4,fl oz/acre,6.8,fl oz/acre
+aad45d03-12c5-489c-93af-3e54956884bf,Zolera FX,UPL NA Inc.,Fungicide,Wheat,4.4,fl oz/acre,6.8,fl oz/acre
+ec7f7295-133f-44a7-88d3-40da2b759149,Zolera FX,UPL NA Inc.,Fungicide,Barley,4.4,fl oz/acre,6.8,fl oz/acre
+cb2bbad6-a119-4a41-afc5-2369916c3675,Adastrio,FMC,Fungicide,Corn,7.0,fl oz/acre,9.0,fl oz/acre
+4728f1e5-02dc-4dc5-b1f0-7fc4330c73d1,Adastrio,FMC,Fungicide,Wheat,7.0,fl oz/acre,9.0,fl oz/acre
+44a08acd-e15a-488e-a441-1bb209b9893f,Adastrio,FMC,Fungicide,Barley,7.0,fl oz/acre,9.0,fl oz/acre
+682f7787-17dd-426b-a658-91018bd8a1c7,Priaxor,BASF,Fungicide,Soybeans,4.0,fl oz/acre,8.0,fl oz/acre
+b6e385d0-ce15-4fc4-b2e4-375ed402a7ea,Priaxor,BASF,Fungicide,Wheat,4.0,fl oz/acre,8.0,fl oz/acre
+fc5658b6-7a3e-4eff-8c49-fe87bec62423,Priaxor,BASF,Fungicide,Barley,4.0,fl oz/acre,8.0,fl oz/acre
+448be131-d7be-40c8-a88a-374cceb934a1,Priaxor,BASF,Fungicide,Oats,4.0,fl oz/acre,8.0,fl oz/acre
+66214575-6700-4e51-a32c-391a5d0849bf,Aproach,Corteva,Fungicide,Corn,6.0,fl oz/acre,12.0,fl oz/acre
+3350c3f5-1c87-4378-9c5e-d001847cb7b0,Aproach,Corteva,Fungicide,Soybeans,6.0,fl oz/acre,12.0,fl oz/acre
+1a142638-17de-4d59-b8dd-469896cf067d,Aproach,Corteva,Fungicide,Wheat,6.0,fl oz/acre,12.0,fl oz/acre
+de225e83-5eb9-4dcc-ba2f-fe7c9a4a99d8,Aproach,Corteva,Fungicide,Barley,6.0,fl oz/acre,12.0,fl oz/acre
+63d65a0b-4ec4-457c-91c9-6ea90152ad89,Aproach,Corteva,Fungicide,Oats,6.0,fl oz/acre,12.0,fl oz/acre
+f547627d-dc22-481b-9637-cffe2a94dfe0,Elatus,Syngenta,Fungicide,Soybeans,7.3,fl oz/acre,9.5,fl oz/acre
+5192d89e-9ab4-4a1d-825a-f3d6d01e5051,Elatus,Syngenta,Fungicide,Wheat,7.3,fl oz/acre,9.5,fl oz/acre
+b546a1cc-f1d5-4be7-91e0-6085f91ab0fe,Elatus,Syngenta,Fungicide,Barley,7.3,fl oz/acre,9.5,fl oz/acre
+a395b4bb-9c4f-4c6a-b4f0-0fdc2fc1a939,Elatus,Syngenta,Fungicide,Oats,7.3,fl oz/acre,9.5,fl oz/acre
+46184c8d-3002-44db-ace5-a8502219dd1b,Miravis Ace,Syngenta,Fungicide,Wheat,13.7,fl oz/acre,13.7,fl oz/acre
+79de1bf9-f63a-4fdf-b418-214b7e9dc4e9,Miravis Ace,Syngenta,Fungicide,Barley,13.7,fl oz/acre,13.7,fl oz/acre
+9d406c6b-0843-44d9-a31b-2ecd5dbd4271,Miravis Ace,Syngenta,Fungicide,Oats,13.7,fl oz/acre,13.7,fl oz/acre
+624f3f71-f2e4-4c75-85e3-3b28012636bf,Trivapro,Syngenta,Fungicide,Corn,13.7,fl oz/acre,16.9,fl oz/acre
+a67576f3-2199-4faa-97e3-8bbe91617b35,Trivapro,Syngenta,Fungicide,Soybeans,13.7,fl oz/acre,16.9,fl oz/acre
+e831cd58-0f77-4901-a45a-8b3215bb8271,Trivapro,Syngenta,Fungicide,Wheat,13.7,fl oz/acre,16.9,fl oz/acre
+c9da5d25-32dd-446e-828b-24895c718335,Trivapro,Syngenta,Fungicide,Barley,13.7,fl oz/acre,16.9,fl oz/acre
+67a98125-95fb-4c41-9227-0181ab627d6d,Trivapro,Syngenta,Fungicide,Oats,13.7,fl oz/acre,16.9,fl oz/acre
+43aa06f1-f27f-4821-a105-186be8386d38,Headline,BASF,Fungicide,Corn,6.0,fl oz/acre,12.0,fl oz/acre
+b7e06759-a28b-4102-80fe-5f7b831876fe,Headline,BASF,Fungicide,Soybeans,6.0,fl oz/acre,12.0,fl oz/acre
+4a1dabf4-7f4c-47ff-b320-8732752c86ec,Headline,BASF,Fungicide,Wheat,6.0,fl oz/acre,12.0,fl oz/acre
+f0f2b3c4-20be-43eb-a3b0-0ad2d8f250e6,Headline,BASF,Fungicide,Barley,6.0,fl oz/acre,12.0,fl oz/acre
+c3c346b1-e0dd-4bdf-a9a0-e5e181ea9e88,Headline,BASF,Fungicide,Oats,6.0,fl oz/acre,12.0,fl oz/acre
+6d27b6fb-ba94-46c6-a8b9-ad33b26d37a4,Domark,ISK Biosciences,Fungicide,Soybeans,4.0,fl oz/acre,5.0,fl oz/acre
+6d902307-2a80-4dd2-8e29-34dfb93fa7bc,Domark,ISK Biosciences,Fungicide,Wheat,4.0,fl oz/acre,5.0,fl oz/acre
+d4f5e9c3-a032-416b-9c94-df6ccef54580,Domark,ISK Biosciences,Fungicide,Barley,4.0,fl oz/acre,5.0,fl oz/acre
+9cfd55fa-7e29-4b99-bbe2-e129271d8c47,Lucento,FMC,Fungicide,Corn,5.0,fl oz/acre,6.0,fl oz/acre
+1da698cb-2a3a-4ab9-a9e5-1804faf09e70,Lucento,FMC,Fungicide,Soybeans,5.0,fl oz/acre,6.0,fl oz/acre
+8752a35b-c55d-491f-97ed-2ae002ab244e,Lucento,FMC,Fungicide,Wheat,5.0,fl oz/acre,6.0,fl oz/acre
+6648b830-98ad-4e11-9ef8-cef59e33ff39,Lucento,FMC,Fungicide,Barley,5.0,fl oz/acre,6.0,fl oz/acre
+ee8db30a-bbd5-4e73-ab8c-b00b6067c751,Propulse,Bayer,Fungicide,Soybeans,6.0,fl oz/acre,8.0,fl oz/acre
+e28d91f5-b4cd-4c18-8665-07b4ac403f97,Propulse,Bayer,Fungicide,Wheat,6.0,fl oz/acre,8.0,fl oz/acre
+7c30b09a-7497-4e6a-826c-f4dbf080b948,Propulse,Bayer,Fungicide,Barley,6.0,fl oz/acre,8.0,fl oz/acre
+b87348e3-78e8-4c1f-b17b-2aa320c9bd4f,Topguard,FMC,Fungicide,Corn,7.0,fl oz/acre,10.0,fl oz/acre
+353be225-afd2-4ad9-9aab-676317d1c02b,Topguard,FMC,Fungicide,Soybeans,7.0,fl oz/acre,10.0,fl oz/acre
+7f5a6afa-88e8-4455-869d-6a173333994b,Topguard,FMC,Fungicide,Wheat,7.0,fl oz/acre,10.0,fl oz/acre
+c8d29248-951a-4481-8f93-05a30dc8c811,Topguard,FMC,Fungicide,Barley,7.0,fl oz/acre,10.0,fl oz/acre
+c24b81d4-2d78-4ceb-94e0-c2bcac9be1d1,Tilt Bravo,Syngenta,Fungicide,Corn,12.0,fl oz/acre,16.0,fl oz/acre
+f30c4e18-0e43-4ebe-ad86-9183d24ea023,Tilt Bravo,Syngenta,Fungicide,Soybeans,12.0,fl oz/acre,16.0,fl oz/acre
+fd48c9cd-c65f-4443-bcbf-cb821a2c7441,Tilt Bravo,Syngenta,Fungicide,Wheat,12.0,fl oz/acre,16.0,fl oz/acre
+3e1686bf-9bb4-4d1f-94d0-c512ff5f8014,Tilt Bravo,Syngenta,Fungicide,Barley,12.0,fl oz/acre,16.0,fl oz/acre
+207a264f-f037-4475-98ca-bb75d37fe8ab,Revytek,BASF,Fungicide,Corn,7.0,fl oz/acre,9.0,fl oz/acre
+5126c2d7-7f2d-4967-b112-9dc5cc6fe560,Revytek,BASF,Fungicide,Soybeans,7.0,fl oz/acre,9.0,fl oz/acre
+73a1eb91-9d0b-4db8-aeac-4f5221a53c8e,Revytek,BASF,Fungicide,Wheat,7.0,fl oz/acre,9.0,fl oz/acre
+7fb01236-89c4-4c7b-a5cf-2a6eba6d9083,Revytek,BASF,Fungicide,Barley,7.0,fl oz/acre,9.0,fl oz/acre
+7fdae6e0-b460-488d-b00f-f705b7800ca6,Revytek,BASF,Fungicide,Oats,7.0,fl oz/acre,9.0,fl oz/acre

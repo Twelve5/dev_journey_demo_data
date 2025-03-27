@@ -1,0 +1,50 @@
+UniqueId,Name,Manufacturer,Type,Approved Crop,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+f173a5fe-cda2-41bd-9560-8e383924c41f,Peak,Syngenta,Herbicide,Wheat,0.25,oz/acre,0.38,oz/acre
+eb8655f2-7b1c-4147-8413-a70511a4f307,Peak,Syngenta,Herbicide,Barley,0.25,oz/acre,0.38,oz/acre
+99b23f26-4c63-4f0a-ba5f-02db56cf39b2,Harmony GT XP,FMC,Herbicide,Wheat,0.3,oz/acre,0.6,oz/acre
+d5abaca0-6e77-484a-b39f-9ef03e45af0c,Harmony GT XP,FMC,Herbicide,Barley,0.3,oz/acre,0.6,oz/acre
+e86cb783-0939-4dcb-b52a-d68452a5ae1e,Harmony GT XP,FMC,Herbicide,Oats,0.3,oz/acre,0.6,oz/acre
+98fc1b49-538e-4e24-8914-b087d1eb094b,Harmony GT XP,FMC,Herbicide,Corn,0.3,oz/acre,0.6,oz/acre
+63bd945f-fa1b-4e23-8322-fbab2c49b165,Harmony GT XP,FMC,Herbicide,Soybeans,0.3,oz/acre,0.6,oz/acre
+439cfacc-08df-403d-8a2f-7aede0817f10,Sequence,Syngenta,Herbicide,Corn,2.5,pt/acre,3.5,pt/acre
+ffec73c3-a3ee-482a-8dab-4454a55f9832,Sequence,Syngenta,Herbicide,Soybeans,2.5,pt/acre,3.5,pt/acre
+17bbb9e6-6e28-4a5e-a7aa-ec970f18ae35,Aim EC,FMC,Herbicide,Corn,0.5,oz/acre,2.0,oz/acre
+5bf772a7-a7b8-4e33-b19c-abb264f4da3d,Aim EC,FMC,Herbicide,Soybeans,0.5,oz/acre,2.0,oz/acre
+b80bb709-e64a-4a50-be21-a197a16db071,Liberty,BASF,Herbicide,Corn,22.0,fl oz/acre,36.0,fl oz/acre
+26625276-8ad3-483e-858d-82dd4dd0b7ff,Liberty,BASF,Herbicide,Soybeans,22.0,fl oz/acre,36.0,fl oz/acre
+2812c50f-0f1f-4b64-ad55-4536be49686c,SureStart II,Corteva Agriscience,Herbicide,Corn,1.5,pt/acre,2.0,pt/acre
+986ed8ed-bf48-4413-a085-e4b99aab9add,Banvel,BASF,Herbicide,Sorghum,0.5,pt/acre,1.0,pt/acre
+8b7c656a-3bb5-4f65-8bba-298f7717397a,Sterling Blue,Albaugh,Herbicide,Corn,0.5,pt/acre,1.0,pt/acre
+0a81b15d-4358-41f6-9ee1-9ba9c3cc7f39,Sterling Blue,Albaugh,Herbicide,Soybeans,0.5,pt/acre,1.0,pt/acre
+3fad28ed-365a-4dbd-86d0-9ed58926479d,Sterling Blue,Albaugh,Herbicide,Wheat,0.5,pt/acre,1.0,pt/acre
+a3fac886-8b53-477e-afae-c25827a687d0,Sterling Blue,Albaugh,Herbicide,Barley,0.5,pt/acre,1.0,pt/acre
+46bc3b39-5b14-4df8-b4ba-17f738b0c213,Sterling Blue,Albaugh,Herbicide,Oats,0.5,pt/acre,1.0,pt/acre
+e49f0a99-4317-458b-8919-5d2da3d79f7f,Sterling Blue,Albaugh,Herbicide,Sorghum,0.5,pt/acre,1.0,pt/acre
+4e93edb7-1034-4c42-8b0f-84ed86117cd7,Roundup PowerMAX,Bayer,Herbicide,Corn,22.0,fl oz/acre,44.0,fl oz/acre
+d5ad5d6a-a0de-49bb-8315-708972bd3e47,Roundup PowerMAX,Bayer,Herbicide,Soybeans,22.0,fl oz/acre,44.0,fl oz/acre
+7e36a91a-4920-48d7-b0e5-f3a63570bcc0,Roundup PowerMAX,Bayer,Herbicide,Wheat,16.0,fl oz/acre,32.0,fl oz/acre
+0e92427c-69d7-42ab-8631-73c1be5fb131,Roundup PowerMAX,Bayer,Herbicide,Barley,16.0,fl oz/acre,32.0,fl oz/acre
+d5b83c88-fac8-4c7a-acc6-55a3ae6c5758,Roundup PowerMAX,Bayer,Herbicide,Oats,16.0,fl oz/acre,32.0,fl oz/acre
+7ddb5106-a62f-402f-8939-9dc867c93677,Roundup PowerMAX,Bayer,Herbicide,Sorghum,22.0,fl oz/acre,44.0,fl oz/acre
+fc95db27-b315-41c4-bbfb-181478e85dcc,"2,4-D Amine",Nufarm,Herbicide,Corn,1.0,pt/acre,2.0,pt/acre
+71189ad5-fdcb-4305-8485-b938e2e7d7e4,"2,4-D Amine",Nufarm,Herbicide,Soybeans,1.0,pt/acre,2.0,pt/acre
+87447390-d2ee-47e5-88f1-3594eaeef3cb,"2,4-D Amine",Nufarm,Herbicide,Wheat,0.5,pt/acre,1.5,pt/acre
+86c264f4-58ca-4c75-bf2a-1f90f4f0b1b9,"2,4-D Amine",Nufarm,Herbicide,Barley,0.5,pt/acre,1.5,pt/acre
+bf55bb58-0b18-44b9-94c7-4cc07b28f37c,"2,4-D Amine",Nufarm,Herbicide,Oats,0.5,pt/acre,1.5,pt/acre
+71cb312e-58b7-43dc-b440-bff4fd2ac775,"2,4-D Amine",Nufarm,Herbicide,Sorghum,1.0,pt/acre,2.0,pt/acre
+cf77a63c-693d-4f80-ad9f-0d2ae5660070,Dicamba,BASF,Herbicide,Corn,0.5,pt/acre,1.5,pt/acre
+9af4c41b-c51a-4446-b9bb-c9f8c6791e91,Dicamba,BASF,Herbicide,Soybeans,0.5,pt/acre,1.5,pt/acre
+a4ca8211-2b70-470b-b146-7b5c8ea71e33,Dicamba,BASF,Herbicide,Wheat,0.25,pt/acre,1.0,pt/acre
+d4fcc366-413a-475e-8a58-dc0b223c0207,Dicamba,BASF,Herbicide,Barley,0.25,pt/acre,1.0,pt/acre
+b186097c-a21b-45b4-bf85-3acc71831b5e,Dicamba,BASF,Herbicide,Oats,0.25,pt/acre,1.0,pt/acre
+14f72c30-3a5b-49a6-84bb-4378af453359,Dicamba,BASF,Herbicide,Sorghum,0.5,pt/acre,1.5,pt/acre
+232658d4-be1c-49cb-b8de-fe2e4cd5f123,Callisto,Syngenta,Herbicide,Corn,3.0,fl oz/acre,7.7,fl oz/acre
+86609fd8-eecc-49ec-bf96-809a115744ec,Callisto,Syngenta,Herbicide,Soybeans,3.0,fl oz/acre,7.7,fl oz/acre
+e4ed8209-58b9-446b-97b9-ab36c42e8e4a,Atrazine,Syngenta,Herbicide,Corn,1.0,lb/acre,2.5,lb/acre
+18dc54a2-93f1-4fa9-8494-600a03578a5f,Atrazine,Syngenta,Herbicide,Sorghum,1.0,lb/acre,2.5,lb/acre
+a23a2328-d470-4651-a379-211d00429b01,Clarity,BASF,Herbicide,Corn,4.0,fl oz/acre,16.0,fl oz/acre
+a22c3373-c12a-4f0f-a0b5-aad9eae3874b,Clarity,BASF,Herbicide,Soybeans,4.0,fl oz/acre,16.0,fl oz/acre
+cf089c3b-398a-4e24-9455-b322bc762147,Clarity,BASF,Herbicide,Wheat,2.0,fl oz/acre,10.0,fl oz/acre
+af5b7ead-08f5-4421-90bf-faf170c7164a,Clarity,BASF,Herbicide,Barley,2.0,fl oz/acre,10.0,fl oz/acre
+b78aa41f-215f-484f-9204-ffc66694216b,Clarity,BASF,Herbicide,Oats,2.0,fl oz/acre,10.0,fl oz/acre
+38e92c76-54af-4930-bac2-0eb8e0334356,Clarity,BASF,Herbicide,Sorghum,4.0,fl oz/acre,16.0,fl oz/acre

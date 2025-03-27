@@ -1,0 +1,68 @@
+Product Name,Manufacturer,Approved Crop,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+Tilt,Syngenta,Wheat,4.0,fl oz/acre,8.0,fl oz/acre
+Tilt,Syngenta,Barley,4.0,fl oz/acre,8.0,fl oz/acre
+Quilt Xcel,Syngenta,Corn,10.5,fl oz/acre,14.0,fl oz/acre
+Quilt Xcel,Syngenta,Soybeans,10.5,fl oz/acre,14.0,fl oz/acre
+Quilt Xcel,Syngenta,Wheat,10.5,fl oz/acre,14.0,fl oz/acre
+Quilt Xcel,Syngenta,Barley,10.5,fl oz/acre,14.0,fl oz/acre
+Stratego,Bayer,Corn,10.0,fl oz/acre,12.0,fl oz/acre
+Stratego,Bayer,Soybeans,10.0,fl oz/acre,12.0,fl oz/acre
+Stratego,Bayer,Wheat,10.0,fl oz/acre,12.0,fl oz/acre
+Stratego,Bayer,Barley,10.0,fl oz/acre,12.0,fl oz/acre
+Stratego,Bayer,Oats,10.0,fl oz/acre,12.0,fl oz/acre
+Zolera FX,UPL NA Inc.,Corn,4.4,fl oz/acre,6.8,fl oz/acre
+Zolera FX,UPL NA Inc.,Soybeans,4.4,fl oz/acre,6.8,fl oz/acre
+Zolera FX,UPL NA Inc.,Wheat,4.4,fl oz/acre,6.8,fl oz/acre
+Zolera FX,UPL NA Inc.,Barley,4.4,fl oz/acre,6.8,fl oz/acre
+Adastrio,FMC,Corn,7.0,fl oz/acre,9.0,fl oz/acre
+Adastrio,FMC,Wheat,7.0,fl oz/acre,9.0,fl oz/acre
+Adastrio,FMC,Barley,7.0,fl oz/acre,9.0,fl oz/acre
+Priaxor,BASF,Soybeans,4.0,fl oz/acre,8.0,fl oz/acre
+Priaxor,BASF,Wheat,4.0,fl oz/acre,8.0,fl oz/acre
+Priaxor,BASF,Barley,4.0,fl oz/acre,8.0,fl oz/acre
+Priaxor,BASF,Oats,4.0,fl oz/acre,8.0,fl oz/acre
+Aproach,Corteva,Corn,6.0,fl oz/acre,12.0,fl oz/acre
+Aproach,Corteva,Soybeans,6.0,fl oz/acre,12.0,fl oz/acre
+Aproach,Corteva,Wheat,6.0,fl oz/acre,12.0,fl oz/acre
+Aproach,Corteva,Barley,6.0,fl oz/acre,12.0,fl oz/acre
+Aproach,Corteva,Oats,6.0,fl oz/acre,12.0,fl oz/acre
+Elatus,Syngenta,Soybeans,7.3,fl oz/acre,9.5,fl oz/acre
+Elatus,Syngenta,Wheat,7.3,fl oz/acre,9.5,fl oz/acre
+Elatus,Syngenta,Barley,7.3,fl oz/acre,9.5,fl oz/acre
+Elatus,Syngenta,Oats,7.3,fl oz/acre,9.5,fl oz/acre
+Miravis Ace,Syngenta,Wheat,13.7,fl oz/acre,13.7,fl oz/acre
+Miravis Ace,Syngenta,Barley,13.7,fl oz/acre,13.7,fl oz/acre
+Miravis Ace,Syngenta,Oats,13.7,fl oz/acre,13.7,fl oz/acre
+Trivapro,Syngenta,Corn,13.7,fl oz/acre,16.9,fl oz/acre
+Trivapro,Syngenta,Soybeans,13.7,fl oz/acre,16.9,fl oz/acre
+Trivapro,Syngenta,Wheat,13.7,fl oz/acre,16.9,fl oz/acre
+Trivapro,Syngenta,Barley,13.7,fl oz/acre,16.9,fl oz/acre
+Trivapro,Syngenta,Oats,13.7,fl oz/acre,16.9,fl oz/acre
+Headline,BASF,Corn,6.0,fl oz/acre,12.0,fl oz/acre
+Headline,BASF,Soybeans,6.0,fl oz/acre,12.0,fl oz/acre
+Headline,BASF,Wheat,6.0,fl oz/acre,12.0,fl oz/acre
+Headline,BASF,Barley,6.0,fl oz/acre,12.0,fl oz/acre
+Headline,BASF,Oats,6.0,fl oz/acre,12.0,fl oz/acre
+Domark,ISK Biosciences,Soybeans,4.0,fl oz/acre,5.0,fl oz/acre
+Domark,ISK Biosciences,Wheat,4.0,fl oz/acre,5.0,fl oz/acre
+Domark,ISK Biosciences,Barley,4.0,fl oz/acre,5.0,fl oz/acre
+Lucento,FMC,Corn,5.0,fl oz/acre,6.0,fl oz/acre
+Lucento,FMC,Soybeans,5.0,fl oz/acre,6.0,fl oz/acre
+Lucento,FMC,Wheat,5.0,fl oz/acre,6.0,fl oz/acre
+Lucento,FMC,Barley,5.0,fl oz/acre,6.0,fl oz/acre
+Propulse,Bayer,Soybeans,6.0,fl oz/acre,8.0,fl oz/acre
+Propulse,Bayer,Wheat,6.0,fl oz/acre,8.0,fl oz/acre
+Propulse,Bayer,Barley,6.0,fl oz/acre,8.0,fl oz/acre
+Topguard,FMC,Corn,7.0,fl oz/acre,10.0,fl oz/acre
+Topguard,FMC,Soybeans,7.0,fl oz/acre,10.0,fl oz/acre
+Topguard,FMC,Wheat,7.0,fl oz/acre,10.0,fl oz/acre
+Topguard,FMC,Barley,7.0,fl oz/acre,10.0,fl oz/acre
+Tilt Bravo,Syngenta,Corn,12.0,fl oz/acre,16.0,fl oz/acre
+Tilt Bravo,Syngenta,Soybeans,12.0,fl oz/acre,16.0,fl oz/acre
+Tilt Bravo,Syngenta,Wheat,12.0,fl oz/acre,16.0,fl oz/acre
+Tilt Bravo,Syngenta,Barley,12.0,fl oz/acre,16.0,fl oz/acre
+Revytek,BASF,Corn,7.0,fl oz/acre,9.0,fl oz/acre
+Revytek,BASF,Soybeans,7.0,fl oz/acre,9.0,fl oz/acre
+Revytek,BASF,Wheat,7.0,fl oz/acre,9.0,fl oz/acre
+Revytek,BASF,Barley,7.0,fl oz/acre,9.0,fl oz/acre
+Revytek,BASF,Oats,7.0,fl oz/acre,9.0,fl oz/acre

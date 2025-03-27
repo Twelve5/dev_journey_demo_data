@@ -1,0 +1,8 @@
+Attribute,Explanation,Type,Example
+UniqueId,Unique identified for the prodct approval,GUID,123e4567-e89b-12d3-a456-426614174000
+ProductId,The approved products,GUID,123e4567-e89b-12d3-a456-426614174000
+ApprovedCrop,The crop on which the product can be applied,String,Soybeans
+MinRate,The minimum application rate approved,float,3.5
+MinRateUoM,The UoM of the minimum application rate,String,oz/acre
+MaxRate,The maximum application rate approved,float,3.5
+MaxRateUoM,The UoM of the maximum application rate,String,oz/acre

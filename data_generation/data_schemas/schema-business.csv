@@ -1,0 +1,3 @@
+Attribute,Explanation,Type,Example
+UniqueId,Unique identified for the business,GUID,123e4567-e89b-12d3-a456-426614174000
+Name,The Name of the business,String,Cooper s Ltd

@@ -1,0 +1,9 @@
+Attribute,Explanation,Type,Example
+UniqueId,Unique identified for the cropzone,GUID,123e4567-e89b-12d3-a456-426614174000
+Name,The name of the cropzone,String,Lower Ditch
+FieldId,The UniqueId of the field this cropzone belongs to,GUID,123e4567-e89b-12d3-a456-426614174000
+Season,Representing the Season Associated with the CropZone,Date(YYYY),2024
+Crop,Indicating the Crop contained within the Crop Zone,String,Corn / Soybeans / Wheat
+Geometry,Representing the geometry / boundaries of the CropZone,geoJson,
+Area,The area of the Crop Zone,float,12.3
+AreaUoM,The Unit of Measurement of the Crop Zone Area,string,ac

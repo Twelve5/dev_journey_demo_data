@@ -1,0 +1,57 @@
+Product Name,Manufacturer,Approved Crop,Min Application Rate,Min Rate UoM,Max Application Rate,Max Rate UoM
+Warrior II with Zeon Technology,Syngenta,Soybeans,1.28,fl oz/acre,1.92,fl oz/acre
+Warrior II with Zeon Technology,Syngenta,Corn,1.28,fl oz/acre,1.92,fl oz/acre
+Warrior II with Zeon Technology,Syngenta,Wheat,1.28,fl oz/acre,1.92,fl oz/acre
+Warrior II with Zeon Technology,Syngenta,Barley,1.28,fl oz/acre,1.92,fl oz/acre
+Warrior II with Zeon Technology,Syngenta,Oats,1.28,fl oz/acre,1.92,fl oz/acre
+Warrior II with Zeon Technology,Syngenta,Sorghum,1.28,fl oz/acre,1.92,fl oz/acre
+Centynal EC,Central Life Sciences,Corn,8.5,fl oz/acre,8.5,fl oz/acre
+Centynal EC,Central Life Sciences,Wheat,9.1,fl oz/acre,9.1,fl oz/acre
+Centynal EC,Central Life Sciences,Oats,4.9,fl oz/acre,4.9,fl oz/acre
+Centynal EC,Central Life Sciences,Sorghum,8.5,fl oz/acre,8.5,fl oz/acre
+Centynal EC,Central Life Sciences,Barley,8.5,fl oz/acre,8.5,fl oz/acre
+Diacon IGR,Central Life Sciences,Corn,1.8,fl oz/acre,7.0,fl oz/acre
+Diacon IGR,Central Life Sciences,Wheat,1.8,fl oz/acre,7.0,fl oz/acre
+Diacon IGR,Central Life Sciences,Oats,1.0,fl oz/acre,4.0,fl oz/acre
+Diacon IGR,Central Life Sciences,Sorghum,1.8,fl oz/acre,7.0,fl oz/acre
+Diacon IGR,Central Life Sciences,Barley,1.8,fl oz/acre,7.0,fl oz/acre
+Sensat,Bayer,Corn,9.8,fl oz/acre,9.8,fl oz/acre
+Sensat,Bayer,Wheat,10.5,fl oz/acre,10.5,fl oz/acre
+Sensat,Bayer,Oats,5.9,fl oz/acre,5.9,fl oz/acre
+Sensat,Bayer,Sorghum,9.8,fl oz/acre,9.8,fl oz/acre
+Baythroid XL,Bayer,Corn,0.8,fl oz/acre,2.8,fl oz/acre
+Baythroid XL,Bayer,Soybeans,1.6,fl oz/acre,2.8,fl oz/acre
+Baythroid XL,Bayer,Wheat,0.8,fl oz/acre,2.8,fl oz/acre
+Baythroid XL,Bayer,Barley,0.8,fl oz/acre,2.8,fl oz/acre
+Baythroid XL,Bayer,Oats,0.8,fl oz/acre,2.8,fl oz/acre
+Baythroid XL,Bayer,Sorghum,0.8,fl oz/acre,2.8,fl oz/acre
+Brigade 2EC,FMC,Corn,2.1,fl oz/acre,6.4,fl oz/acre
+Brigade 2EC,FMC,Soybeans,2.1,fl oz/acre,6.4,fl oz/acre
+Brigade 2EC,FMC,Wheat,2.1,fl oz/acre,6.4,fl oz/acre
+Brigade 2EC,FMC,Barley,2.1,fl oz/acre,6.4,fl oz/acre
+Brigade 2EC,FMC,Oats,2.1,fl oz/acre,6.4,fl oz/acre
+Brigade 2EC,FMC,Sorghum,2.1,fl oz/acre,6.4,fl oz/acre
+Mustang Maxx,FMC,Corn,2.0,fl oz/acre,4.3,fl oz/acre
+Mustang Maxx,FMC,Soybeans,2.0,fl oz/acre,4.3,fl oz/acre
+Mustang Maxx,FMC,Wheat,2.0,fl oz/acre,4.3,fl oz/acre
+Mustang Maxx,FMC,Barley,2.0,fl oz/acre,4.3,fl oz/acre
+Mustang Maxx,FMC,Oats,2.0,fl oz/acre,4.3,fl oz/acre
+Mustang Maxx,FMC,Sorghum,2.0,fl oz/acre,4.3,fl oz/acre
+Capture LFR,FMC,Corn,3.4,fl oz/acre,8.5,fl oz/acre
+Capture LFR,FMC,Soybeans,3.4,fl oz/acre,8.5,fl oz/acre
+Capture LFR,FMC,Wheat,3.4,fl oz/acre,8.5,fl oz/acre
+Capture LFR,FMC,Barley,3.4,fl oz/acre,8.5,fl oz/acre
+Capture LFR,FMC,Oats,3.4,fl oz/acre,8.5,fl oz/acre
+Capture LFR,FMC,Sorghum,3.4,fl oz/acre,8.5,fl oz/acre
+Lorsban Advanced,Corteva,Corn,1.0,pt/acre,2.0,pt/acre
+Lorsban Advanced,Corteva,Soybeans,1.0,pt/acre,2.0,pt/acre
+Lorsban Advanced,Corteva,Wheat,1.0,pt/acre,2.0,pt/acre
+Lorsban Advanced,Corteva,Barley,1.0,pt/acre,2.0,pt/acre
+Lorsban Advanced,Corteva,Oats,1.0,pt/acre,2.0,pt/acre
+Lorsban Advanced,Corteva,Sorghum,1.0,pt/acre,2.0,pt/acre
+Karate Zeon,Syngenta,Corn,0.96,fl oz/acre,1.92,fl oz/acre
+Karate Zeon,Syngenta,Soybeans,0.96,fl oz/acre,1.92,fl oz/acre
+Karate Zeon,Syngenta,Wheat,0.96,fl oz/acre,1.92,fl oz/acre
+Karate Zeon,Syngenta,Barley,0.96,fl oz/acre,1.92,fl oz/acre
+Karate Zeon,Syngenta,Oats,0.96,fl oz/acre,1.92,fl oz/acre
+Karate Zeon,Syngenta,Sorghum,0.96,fl oz/acre,1.92,fl oz/acre

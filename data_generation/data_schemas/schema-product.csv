@@ -1,0 +1,5 @@
+Attribute,Explanation,Type,Example
+UniqueId,Unique identified for the product,GUID,123e4567-e89b-12d3-a456-426614174000
+Name,The name of the product,String,PowerMax Pro
+Manufacturer,The manufacturer of the product,String,Bayer Cropscience
+Type,The type of the product,String,Herbicide
